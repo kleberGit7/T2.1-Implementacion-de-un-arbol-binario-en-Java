@@ -95,3 +95,20 @@ Se conserva la opción 8 para salir, según la guía del aula. La opción 9 perm
 | Posición derecha ocupada | Opción 9. | Se rechaza la inserción y se conserva el hijo original. |
 
 La opción 9 muestra `[OK]` cuando el resultado obtenido coincide con el esperado. Los mensajes «Rechazo esperado» corresponden a las validaciones de posiciones ocupadas y no a un fallo del programa. Después de esos intentos, el árbol de prueba conserva sus nueve nodos.
+
+## Evidencias de ejecución
+
+### Árbol inicial
+![Árbol inicial](evidencias/arbol-inicial.png)
+
+### Árbol vacío
+![Árbol vacío](evidencias/arbol-vacio.png)
+
+### Consultas: primera parte
+![Consultas 1](evidencias/consultas1.png)
+
+### Consultas: segunda parte
+![Consultas 2](evidencias/consultas2.png)
+
+### Casos de prueba
+![Casos de prueba](evidencias/pruebas.png)
